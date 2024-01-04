@@ -1,4 +1,5 @@
- 👋 hi i'm @odonnells26
+![octocat-cropped](https://github.com/odonnells26/odonnells26/assets/155670752/22c0bfb3-6d43-4593-a7e0-e4973db4a781)
+ 👋 hi i'm odonnells26
 
 
 **odonnells26/odonnells26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
