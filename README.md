@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i am in 10-th grade 
  ### my work
- [portfolio](
+ [portfolio]( https://odonnells26.github.io/portfolio/)
