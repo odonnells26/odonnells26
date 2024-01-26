@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: odonnells26@wpsma.org
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i am in 10-th grade 
-
+ ### my work
+ [portfolio](
